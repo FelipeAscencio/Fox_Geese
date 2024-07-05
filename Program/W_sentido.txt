@@ -1,0 +1,42 @@
+==OOO==
+==OOO==
+OOOOOOO
+O     O
+O  Z  O
+==   ==
+==   ==
+\N
+W
+Z
+O
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+4
+----------------------------------------------
+Orden y explicacion de valores:
+Matriz.
+\N (Division de datos).
+Sentido.
+Simbolo del Zorro.
+Simbolo de las Ocas.
+Cantidad de mov. adelante.
+Cantidad de mov. atras.
+Cantidad de mov. izquierda.
+Cantidad de mov. derecha.
+Cantidad de mov. izq-arr.
+Cantidad de mov. izq-aba.
+Cantidad de mov. der-arr.
+Cantidad de mov. der-aba.
+Cantidad de ocas comidas.
+Pos. X del Zorro.
+Pos. Y del Zorro.
+\N (Fin de los datos).
+----------------------------------------------
