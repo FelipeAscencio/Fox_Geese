@@ -28,6 +28,8 @@ In this folder you will find the base statement of the project carried out in "p
 
 In this folder are all the files made for the project.
 
+An important clarification, in this folder are all the ".asm", ".o" files, the executable and the base saved games, but for the basic operation of the game simply the 2 ".asm" files are enough, with the During the compilation process, the rest of the files corresponding to the execution of the program will be created, and with the development of the game, the game save files will be created.
+
 ---
 
 # Explanation of execution
