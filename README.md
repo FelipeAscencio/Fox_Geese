@@ -1,7 +1,5 @@
 # The Fox and the Geese
 
----
-
 ## Introduction
 
 The Fox and the Geese is a 2-player game in which one player controls the "Fox" and the other controls the "Geese."
